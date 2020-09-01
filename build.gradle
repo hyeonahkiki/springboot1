@@ -17,7 +17,7 @@ apply plugin : 'java'
 apply plugin : 'eclipse'
 apply plugin : 'org.springframework.boot'
 
-// 스프링부트의 의존성들을 관리해주는 플러그이라 꼭 추가
+// 스프링부트의 의존성들을 관리해주는 플러그인이라 꼭 추가
 apply plugin : 'io.spring.dependency-management'
 
 
